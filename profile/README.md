@@ -89,6 +89,7 @@ APIs de Binance que usa: **RWA Data**, **Market**, **Trading**, **Transaction** 
 | Repo | Qué tiene |
 |---|---|
 | [**stock-proof**](https://github.com/StkProof/stock-proof) | La app y la lógica de decisión de las cuatro preguntas |
+| [**vault-stockproof**](https://github.com/StkProof/vault-stockproof) | El contexto de producto: idea, MVP, brief y fuentes de cada número |
 
 ---
 
