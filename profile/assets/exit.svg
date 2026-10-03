@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Bloque de salida: Exit Now, Exit Availability, Exit Risk">
+  <rect width="1200" height="230" rx="24" fill="#0B0E11"/>
+  <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+    <g transform="translate(30 30)">
+      <rect width="363" height="170" rx="18" fill="#2EBD85" fill-opacity="0.08" stroke="#2EBD85" stroke-opacity="0.6"/>
+      <text x="28" y="44" font-size="13" font-weight="700" fill="#2EBD85" letter-spacing="2">COMPUERTA</text>
+      <text x="28" y="82" font-size="26" font-weight="800" fill="#FFFFFF">Exit Now</text>
+      <text x="28" y="116" font-size="15" fill="#B7BDC6">Simula vender el mismo monto ahora.</text>
+      <text x="28" y="140" font-size="15" fill="#B7BDC6">Si no se puede medir, no se firma.</text>
+    </g>
+    <g transform="translate(418 30)">
+      <rect width="363" height="170" rx="18" fill="#1E2329" stroke="#2B3139"/>
+      <text x="28" y="44" font-size="13" font-weight="700" fill="#848E9C" letter-spacing="2">INFORMA</text>
+      <text x="28" y="82" font-size="26" font-weight="800" fill="#FFFFFF">Exit Availability</text>
+      <text x="28" y="116" font-size="15" fill="#B7BDC6">Horarios, mint, redeem y canje</text>
+      <text x="28" y="140" font-size="15" fill="#B7BDC6">publicados por cada wrapper.</text>
+    </g>
+    <g transform="translate(806 30)">
+      <rect width="363" height="170" rx="18" fill="#1E2329" stroke="#2B3139"/>
+      <text x="28" y="44" font-size="13" font-weight="700" fill="#848E9C" letter-spacing="2">INFORMA</text>
+      <text x="28" y="82" font-size="26" font-weight="800" fill="#FFFFFF">Exit Risk</text>
+      <text x="28" y="116" font-size="15" fill="#B7BDC6">Se&#241;ales observables,</text>
+      <text x="28" y="140" font-size="15" fill="#B7BDC6">con fuente y fecha.</text>
+    </g>
+  </g>
+</svg>
